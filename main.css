@@ -1,8 +1,14 @@
 
- .section-1-header {
-  text-align: center;
-  margin-bottom: 20px;
+/* mida guud */
+body{
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
 
+h1 h2 h3 h4 h5 h6 {
+ text-wrap: balance;
 }
 
 h5{
