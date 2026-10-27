@@ -1,2 +1,36 @@
 # Afgooye
-waa tijaabo
+Qaabka
+
+ .section-1-header {
+  text-align: center;
+  margin-bottom: 20px;
+
+}
+
+h5{
+   text-transform: uppercase;
+}
+.lorem,h5  {
+  text-align: center;
+  border-radius: 15px;
+  margin: 2px;
+  padding: 0px;
+ 
+  
+  
+}
+
+
+
+.lorem, .section-1-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  
+  
+}
