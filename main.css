@@ -1,17 +1,24 @@
-/*
 
-.lorem {
-  
-    display: flex;
-    background-color: #f4f4f4;
-    text-wrap: wrap;
-}
-*/
-.lorem, .section-1-header {
+ .section-1-header {
   text-align: center;
   margin-bottom: 20px;
 
 }
+
+h5{
+   text-transform: uppercase;
+}
+.lorem,h5  {
+  text-align: center;
+  border-radius: 15px;
+  margin: 2px;
+  padding: 0px;
+ 
+  
+  
+}
+
+
 
 .lorem, .section-1-content {
   display: flex;
